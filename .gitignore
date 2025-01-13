@@ -1,0 +1,13 @@
+# Esclude la cartella dell'ambiente virtuale
+.venv/
+
+# Esclude i file di cache di Python
+__pycache__/
+
+# Esclude i dati
+data/
+datasets/
+
+# Esclude cartelle specifiche del progetto
+NASA/
+PAPER_ROCKET/
