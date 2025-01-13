@@ -1,0 +1,19 @@
+# python==3.12.7
+matplotlib
+notebook
+numpy
+pandas
+pyod
+scikit-learn
+seaborn0
+xgboost
+tqdm1
+joblib
+matplotlib
+numpy
+numba
+scipy
+scikit-learn
+tensorflow
+torch0
+pyESN
