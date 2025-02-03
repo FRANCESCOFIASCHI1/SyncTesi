@@ -1,4 +1,3 @@
-> Contiene i codici degli algoritmi in formato jupiter del paper OPS_SAT per esecuzione in locale
 # 🚀 Rilevamento di Anomalie Satellitari con ROCKET e ROCKAD
   📡Analisi su Dataset Satellitari con Metodi di Feature Extraction per Time Series
 
