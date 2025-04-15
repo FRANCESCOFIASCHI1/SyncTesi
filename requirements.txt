@@ -1,19 +1,15 @@
-# python==3.12.7
 matplotlib
 notebook
 numpy
 pandas
 pyod
 scikit-learn
-seaborn0
+seaborn
 xgboost
-tqdm1
+tqdm
 joblib
-matplotlib
-numpy
 numba
 scipy
-scikit-learn
 tensorflow
-torch0
+torch
 pyESN
